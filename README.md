@@ -20,22 +20,22 @@ Major tasks included:
 The dataset contains features used to describe each transaction and the target label to indicate fraud or not.  
 *Typical features might include transaction amount, timestamps, and categorical indicators (depending on the dataset you used).*
 
-> ⚠️ **Note:** Add your dataset source link here (e.g., Kaggle or UCI) if applicable.
+> **Note:** Add your dataset source link here (e.g., Kaggle or UCI) if applicable.
 
 ---
 
 ## Features
 
 This project includes:
-- 🧾 **Exploratory Data Analysis (EDA)**  
-- 🔢 **Data preprocessing**
-- 📊 **Model training using ML algorithms**
-- 📈 **Evaluation using performance metrics**
-- 🧪 **Prediction script**
+-  **Exploratory Data Analysis (EDA)**  
+-  **Data preprocessing**
+-  **Model training using ML algorithms**
+-  **Evaluation using performance metrics**
+-  **Prediction script**
 
 ---
 
-## 📌 Files in This Repository
+## Files in This Repository
 
 | File | Description |
 |------|-------------|
@@ -46,7 +46,7 @@ This project includes:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python** – Core programming language  
 - **Pandas & NumPy** – Data manipulation  
@@ -55,7 +55,7 @@ This project includes:
 
 ---
 
-## 📥 Installation
+## Installation
 
 ### 1. **Clone the repository**
 
@@ -72,7 +72,7 @@ If not, install manually:
 
 pip install pandas numpy scikit-learn matplotlib seaborn
 
-## ▶️ How to Run
+## How to Run
 ### Using the Notebook
 
 Open and run the notebook for step-by-step exploration:
@@ -82,7 +82,7 @@ jupyter notebook analysis_model.ipynb
 ### Using the Prediction Script
 python fraud_detection.py
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 ### Model performance is typically evaluated on:
 
@@ -98,7 +98,7 @@ python fraud_detection.py
 
 These help understand how well the model detects both fraudulent and legitimate transactions.
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates a fundamental approach to fraud detection using machine learning. It can be further enhanced with:
 
@@ -108,7 +108,7 @@ This project demonstrates a fundamental approach to fraud detection using machin
 
 - Deploying as a web service
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -120,7 +120,7 @@ Contributions are welcome!
 
 - Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License © 2025.
 
