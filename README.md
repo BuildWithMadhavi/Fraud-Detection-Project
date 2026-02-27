@@ -4,7 +4,7 @@ This repository implements a **Machine Learning-based system** to detect fraudul
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 In today’s data-driven world, detecting fraud in financial data is essential for businesses and consumers alike. The goal of this project is to build a machine learning model that can identify potential fraudulent activity based on past transactional patterns.
 
@@ -15,7 +15,7 @@ Major tasks included:
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset contains features used to describe each transaction and the target label to indicate fraud or not.  
 *Typical features might include transaction amount, timestamps, and categorical indicators (depending on the dataset you used).*
@@ -24,7 +24,7 @@ The dataset contains features used to describe each transaction and the target l
 
 ---
 
-## 🧠 Features
+## Features
 
 This project includes:
 - 🧾 **Exploratory Data Analysis (EDA)**  
